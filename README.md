@@ -7,8 +7,8 @@
 </head>
 <body>
     <header>
-        <h1>Tu Nombre</h1>
-        <p>Profesión u oficio</p>
+        <h1>Efren polo de la rosa </h1>
+        <p>tecnico en sistemas</p>
         <p>Ubicación: Córdoba, Colombia</p>
     </header>
 
