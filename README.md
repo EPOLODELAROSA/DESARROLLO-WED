@@ -14,15 +14,17 @@
         Auxiliar logístico. Manejar de manera efectiva los procesos bajo su responsabilidad, propiciando con ello el cumplimiento de las metas propuestas en cuanto a presupuesto de ventas, cuidado y de rotación de los inventarios; considerando la importancia de ofrecer una excelente orientación y servicio al cliente.
     </p>
 
-    <h2><b>INFORMACIÓN PERSONAL</b></h2>
-    <p><b>NOMBRES</b> &nbsp;&nbsp; Efrén De Jesús</p>
-    <p><b>APELLIDOS</b> &nbsp;&nbsp; Polo De La Rosa</p>
-    <p><b>IDENTIFICACIÓN</b> &nbsp;&nbsp; C.C. No. 1.003.400.612 de Montería</p>
-    <p><b>FECHA DE NACIMIENTO</b> &nbsp;&nbsp; 20 de diciembre / 2000</p>
-    <p><b>LUGAR DE NACIMIENTO</b> &nbsp;&nbsp; Montería - Córdoba</p>
-    <p><b>DIRECCIÓN</b> &nbsp;&nbsp;&nbsp; B/ Cantaclaro Mz 170 Lt 12</p>
-    <p><b>ESTADO CIVIL</b> &nbsp;&nbsp; Soltero</p>
-    <p><b>CELULAR</b> &nbsp;&nbsp; 300 691 56 40 – 314 802 24 82</p>
-    <p><b>EMAIL</b> &nbsp;&nbsp; <a href="mailto:efrenpolo08@gmail.com">efrenpolo08@gmail.com</a></p>
+    <h2> <b>INFORMACIÓN PERSONAL</b></h2>
+    <p>  <b>NOMBRES</b>; Efrén De Jesús</p>
+    <p>  <b>APELLIDOS</b>; Polo De La Rosa</p>
+    <p>  <b>IDENTIFICACIÓN</b>; C.C. No. 1.003.400.612 </p>
+    <p>  <b>FECHA DE NACIMIENTO</b> &nbsp;&nbsp; 20 de diciembre del 2000 </p>
+    <p>  <b>LUGAR DE NACIMIENTO</b> Montería - Córdoba</p>
+    <p>  <b>DIRECCIÓN</b>; B/ Cantaclaro Mz 170 Lt 12</p>
+    <p>  <b>ESTADO CIVIL</b>; Soltero</p>
+    <p>  <b>CELULAR</b> ; 3006915640 </p>
+    <p>  <b>EMAIL</b><a href="mailto:efrenpolo08@gmail.com">
+
+    
 </body>
 </html>
