@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hoja de Vida</title>
+    <title>Hoja de vida</title>
 </head>
 <body>
     <h2><b>PERFIL OCUPACIONAL</b></h2>
@@ -25,6 +25,6 @@
     <p>  <b>CELULAR</b> ; 3006915640 </p>
     <p>  <b>EMAIL</b><a href="mailto:efrenpolo08@gmail.com">
 
-    
+
 </body>
 </html>
