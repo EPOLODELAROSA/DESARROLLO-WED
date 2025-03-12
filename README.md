@@ -6,54 +6,23 @@
     <title>Hoja de Vida</title>
 </head>
 <body>
-    <header>
-        <h1>Efren polo de la rosa </h1>
-        <p>tecnico en sistemas</p>
-        <p>Ubicación: Córdoba, Colombia</p>
-    </header>
+    <h2><b>PERFIL OCUPACIONAL</b></h2>
+    <p>
+        Técnico laboral en sistemas informáticos con competencias en actividades productivas relacionadas con el ensamblaje, mantenimiento, actualización, instalación y configuración de computadores, mantenimiento correctivo y preventivo de software y hardware, configuración e instalación de redes LAN, manejo de software ofimático, desarrollo de aplicaciones, manejo de TICS y diseño de páginas WEB.
+    </p>
+    <p>
+        Auxiliar logístico. Manejar de manera efectiva los procesos bajo su responsabilidad, propiciando con ello el cumplimiento de las metas propuestas en cuanto a presupuesto de ventas, cuidado y de rotación de los inventarios; considerando la importancia de ofrecer una excelente orientación y servicio al cliente.
+    </p>
 
-    <section>
-        <h2>Contacto</h2>
-        <p>Email: tuemail@example.com</p>
-        <p>Teléfono: +57 123 456 7890</p>
-        <p>LinkedIn: linkedin.com/in/tuperfil</p>
-    </section>
-
-    <section>
-        <h2>Sobre mí</h2>
-        <p>Breve descripción sobre ti, tu experiencia y lo que te motiva.</p>
-    </section>
-
-    <section>
-        <h2>Experiencia</h2>
-        <h3>Nombre del Trabajo</h3>
-        <p>Empresa - Fecha</p>
-        <p>Descripción de tus funciones y logros.</p>
-
-        <h3>Otro Trabajo</h3>
-        <p>Empresa - Fecha</p>
-        <p>Descripción de funciones.</p>
-    </section>
-
-    <section>
-        <h2>Educación</h2>
-        <h3>Bachillerato</h3>
-        <p>Nombre de la institución - Año de graduación</p>
-    </section>
-
-    <section>
-        <h2>Habilidades</h2>
-        <ul>
-            <li>Habilidad 1</li>
-            <li>Habilidad 2</li>
-            <li>Habilidad 3</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Proyectos</h2>
-        <h3>Nombre del Proyecto</h3>
-        <p>Breve descripción y enlace si aplica.</p>
-    </section>
+    <h2><b>INFORMACIÓN PERSONAL</b></h2>
+    <p><b>NOMBRES</b> &nbsp;&nbsp; Efrén De Jesús</p>
+    <p><b>APELLIDOS</b> &nbsp;&nbsp; Polo De La Rosa</p>
+    <p><b>IDENTIFICACIÓN</b> &nbsp;&nbsp; C.C. No. 1.003.400.612 de Montería</p>
+    <p><b>FECHA DE NACIMIENTO</b> &nbsp;&nbsp; 20 de diciembre / 2000</p>
+    <p><b>LUGAR DE NACIMIENTO</b> &nbsp;&nbsp; Montería - Córdoba</p>
+    <p><b>DIRECCIÓN</b> &nbsp;&nbsp;&nbsp; B/ Cantaclaro Mz 170 Lt 12</p>
+    <p><b>ESTADO CIVIL</b> &nbsp;&nbsp; Soltero</p>
+    <p><b>CELULAR</b> &nbsp;&nbsp; 300 691 56 40 – 314 802 24 82</p>
+    <p><b>EMAIL</b> &nbsp;&nbsp; <a href="mailto:efrenpolo08@gmail.com">efrenpolo08@gmail.com</a></p>
 </body>
 </html>
